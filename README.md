@@ -1,5 +1,7 @@
 # LibType
 
-Comandos para criar package com TypeScript e publicar na NPM, super facil e pratico, mesmo quem tem pouco conhecimento em typescript pode usar os comandos. 
+Commands to create packages with TypeScript and publish in NPM, super easy and practical, even those who have little knowledge in typescript can use the commands.
 
-Recomendo também uma leitura complementar da documentação do TyperScript para, melhor absorção de conhecimento. 
+I also recommend a further reading of the TyperScript documentation for better knowledge absorption.
+
+
